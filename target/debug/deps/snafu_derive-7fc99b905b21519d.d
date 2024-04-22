@@ -1,0 +1,9 @@
+/Users/lidwinaeurora/Documents/Adpro/tutorial8/subscriber/target/debug/deps/libsnafu_derive-7fc99b905b21519d.dylib: /Users/lidwinaeurora/.cargo/registry/src/index.crates.io-6f17d22bba15001f/snafu-derive-0.7.5/src/lib.rs /Users/lidwinaeurora/.cargo/registry/src/index.crates.io-6f17d22bba15001f/snafu-derive-0.7.5/src/parse.rs /Users/lidwinaeurora/.cargo/registry/src/index.crates.io-6f17d22bba15001f/snafu-derive-0.7.5/src/shared.rs /Users/lidwinaeurora/.cargo/registry/src/index.crates.io-6f17d22bba15001f/snafu-derive-0.7.5/src/report.rs /Users/lidwinaeurora/.cargo/registry/src/index.crates.io-6f17d22bba15001f/snafu-derive-0.7.5/src/report/no_async.rs
+
+/Users/lidwinaeurora/Documents/Adpro/tutorial8/subscriber/target/debug/deps/snafu_derive-7fc99b905b21519d.d: /Users/lidwinaeurora/.cargo/registry/src/index.crates.io-6f17d22bba15001f/snafu-derive-0.7.5/src/lib.rs /Users/lidwinaeurora/.cargo/registry/src/index.crates.io-6f17d22bba15001f/snafu-derive-0.7.5/src/parse.rs /Users/lidwinaeurora/.cargo/registry/src/index.crates.io-6f17d22bba15001f/snafu-derive-0.7.5/src/shared.rs /Users/lidwinaeurora/.cargo/registry/src/index.crates.io-6f17d22bba15001f/snafu-derive-0.7.5/src/report.rs /Users/lidwinaeurora/.cargo/registry/src/index.crates.io-6f17d22bba15001f/snafu-derive-0.7.5/src/report/no_async.rs
+
+/Users/lidwinaeurora/.cargo/registry/src/index.crates.io-6f17d22bba15001f/snafu-derive-0.7.5/src/lib.rs:
+/Users/lidwinaeurora/.cargo/registry/src/index.crates.io-6f17d22bba15001f/snafu-derive-0.7.5/src/parse.rs:
+/Users/lidwinaeurora/.cargo/registry/src/index.crates.io-6f17d22bba15001f/snafu-derive-0.7.5/src/shared.rs:
+/Users/lidwinaeurora/.cargo/registry/src/index.crates.io-6f17d22bba15001f/snafu-derive-0.7.5/src/report.rs:
+/Users/lidwinaeurora/.cargo/registry/src/index.crates.io-6f17d22bba15001f/snafu-derive-0.7.5/src/report/no_async.rs:
