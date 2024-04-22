@@ -13,3 +13,13 @@ Tutorial for Advanced Programming 2024 Module 8 - Faculty of Computer Science, U
 
     - `guest` pertama adalah _username_ sedangkan `guest` yang kedua adalah _password_. Dalam hal ini, `guest:guest` berarti _username_ dan _password_-nya adalah guest.
     - `localhost:5672` artinya server berjalan pada mesin klien dengan port 5672 yang merupakan port default untuk AMQP.
+
+## RabbitMQ
+
+1. Simulation slow subscriber
+
+    ![RabbitMQ Slow Rates](/image/RabbitMQ-1.png)
+
+    Total number queue dalam mesin saya adalah 50, karena saya melakukan `cargo run` Publisher sebanyak 10 kali.
+
+2. 
