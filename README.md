@@ -21,3 +21,14 @@ Tutorial for Advanced Programming 2024 Module 8 - Faculty of Computer Science, U
     ![RabbitMQ Slow Rates](/image/RabbitMQ-1.png)
 
     Total number queue dalam mesin saya adalah 50, karena saya melakukan `cargo run` Publisher sebanyak 10 kali.
+
+2. Running at least three subscribers
+
+    ![Terminal Cargo Run](/image/Terminal.png)
+    ![RabbitMQ Slow 3 Subscriber](/image/RabbitMQ-2.png)
+
+    Ketika menjalankan 3 Subscriber, spike berkurang secara lebih cepat karena setiap _request_ yang dikirimkan ke Subscriber dibagi ke 3 Subscribers yang berbeda. Dengan beberapa Subscriber yang _running_, setiap _message_ yang diterima oleh Publisher akan dikirimkan ke masing-masing Subscriber secara paralel.
+
+    Hal yang mungkin dapat di-_improve_ dari _code_ adalah:
+    - Pada Subscriber, `thread::sleep` dapat dihilangkan atau dikurangi agar waktu eksekusi dapat menjadi lebih efisien.
+    - Pada Publisher, dapat diubah menjadi _asynchronous_ menggunakan _async_/_await_ untuk meningkatkan kinerja dan skalabilitas program.
